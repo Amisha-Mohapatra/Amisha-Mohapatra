@@ -1,7 +1,5 @@
  Hi there 👋
 
-<!--
-**Amisha-Mohapatra/Amisha-Mohapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -13,4 +11,4 @@
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/amisha-mohapatra-7033911b4/)
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love chai..
--->
+
