@@ -9,4 +9,4 @@
    - [LinkedIn](https://www.linkedin.com/in/amisha-mohapatra-7033911b4/)
    - [Email](mailto:mohapatraamisha641@gmail.com) (`mohapatraamisha641@gmail.com`)
 - 😄 Pronouns: She
-- ⚡ Fun fact: I love chai..
+- ⚡ Fun fact: I love chai...
