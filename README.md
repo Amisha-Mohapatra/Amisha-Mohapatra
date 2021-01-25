@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amisha Mohapatra</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha-mohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="amisha-mohapatra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amisha-mohapatra" alt="amisha-mohapatra" /></a> </p>
 
 - 🔭 I’m currently a **student.**
 
@@ -17,8 +14,8 @@
 - 💬 Ask me about **things I know...**
 
 - 📫 How to reach me 
-   - [LinkedIn](https://www.linkedin.com/in/amisha-mohapatra-7033911b4/)
-   - [Email](mailto:mohapatraamisha641@gmail.com) (`mohapatraamisha641@gmail.com`)
+- [LinkedIn](https://www.linkedin.com/in/amisha-mohapatra-7033911b4/)
+- [Email](mailto:mohapatraamisha641@gmail.com) (`mohapatraamisha641@gmail.com`)
 
 - ⚡ Fun fact **I think I love tea...**
 
