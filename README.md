@@ -1,7 +1,7 @@
  Hi there 👋
 
 - 🔭 I’m currently a student.
-- 🌱 I’m currently learning ersion control system.
+- 🌱 I’m currently learning version control system.
 - 👯 I’m looking to collaborate on Data structure and Algorithms.
 - 🤔 I’m looking for help with git commands.
 - 💬 Ask me about Anything.
