@@ -16,7 +16,7 @@
 
 - 📫 How to reach me 
 - [LinkedIn](https://www.linkedin.com/in/amisha-mohapatra-7033911b4/)
-- [Email](mailto:mohapatraamisha641@gmail.com) (`mohapatraamisha641@gmail.com`)
+- [Email](mailto:mohapatraamisha641@gmail.com) 
 
 - ⚡ Fun fact **I think I love tea...**
 
