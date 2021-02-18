@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amisha Mohapatra</h1>
-<h3 align="center">A passionate learner from India😇</h3>
+<h3 align="center">A passionate learner from India😇🇮🇳</h3>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha-mohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="amisha-mohapatra" /> </p>
