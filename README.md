@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a **student👩.**
 
-- 🌱 I’m currently learning **Version control system.**
+- 🌱 I’m currently learning **Version Control System.**
 
 - 👯 I’m looking to collaborate on **Data structure and Algorithms.**
 
