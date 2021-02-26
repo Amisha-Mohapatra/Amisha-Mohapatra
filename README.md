@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amisha-mohapatra&label=Profile%20views&color=0e75b6&style=flat" alt="amisha-mohapatra" /> </p>
 
-- 🔭 I’m currently a **student👩.**
+- 🔭 I’m currently a **student pursuing btech cse👩.**
 
 - 🌱 I’m currently learning **Version Control System.**
 
