@@ -18,7 +18,7 @@
 - [LinkedIn](https://www.linkedin.com/in/amisha-mohapatra-7033911b4/)
 - [Email](mailto:mohapatraamisha641@gmail.com) 
 
-- ⚡ Fun fact **Coding is love❤️...**
+- ⚡ Fun fact **Coding is love❤️....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
