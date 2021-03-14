@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **git commands.**
 
-- 💬 Ask me about **things I know.....**
+- 💬 Ask me about **things I know...**
 
 - 📫 To connect with me 
 - [LinkedIn](https://www.linkedin.com/in/amisha-mohapatra-7033911b4/)
