@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amisha Mohapatra</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amisha Mohapatra</h1>
 <h3 align="center">A passionate learner from India🇮🇳</h3>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
